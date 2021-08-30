@@ -34,6 +34,6 @@
 
 
 
-![enter image description here](https://github.com/mstfgvnc/PersonList/blob/master/app/src/main/res/ss/1.jpg?raw=true)  [enter image description here](https://github.com/mstfgvnc/PersonList/blob/master/app/src/main/res/ss/2.jpg?raw=true)  [enter image description here](https://github.com/mstfgvnc/PersonList/blob/master/app/src/main/res/ss/3.jpg?raw=true)  [enter image description here](https://github.com/mstfgvnc/PersonList/blob/master/app/src/main/res/ss/4.jpg?raw=true)  [enter image description here](https://github.com/mstfgvnc/PersonList/blob/master/app/src/main/res/ss/5.jpg?raw=true)  
+![enter image description here](https://github.com/mstfgvnc/PersonList/blob/master/app/src/main/res/ss/1.jpg?raw=true)  ![enter image description here](https://github.com/mstfgvnc/PersonList/blob/master/app/src/main/res/ss/2.jpg?raw=true)  ![enter image description here](https://github.com/mstfgvnc/PersonList/blob/master/app/src/main/res/ss/3.jpg?raw=true)  ![enter image description here](https://github.com/mstfgvnc/PersonList/blob/master/app/src/main/res/ss/4.jpg?raw=true)  ![enter image description here](https://github.com/mstfgvnc/PersonList/blob/master/app/src/main/res/ss/5.jpg?raw=true)  
 
 
